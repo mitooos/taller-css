@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+p {
+  margin: 0;
+  text-align: center;
+}
+
+#orange {
+  color: orange;
+}
+
+.bold {
+  font-weight: bold;
+}
